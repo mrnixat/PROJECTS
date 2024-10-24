@@ -1,12 +1,3 @@
-//********************************************************************
-//
-// CSCI 241 Assignment 8
-//
-// Created By: Yousuf Khan, Niko Tsakiridis
-// ZID: Z2004989, Z1986104
-//
-//********************************************************************
-
 #include <iostream>
 #include <iomanip>
 #include "simplesim.h"
