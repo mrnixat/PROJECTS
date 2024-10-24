@@ -1,16 +1,6 @@
 #ifndef SML_H
 #define SML_H
 
-//********************************************************************
-//
-// sml.h
-// CSCI 241 Assignment 8
-//
-// Created by Yousuf Khan, Niko Tsakiridis
-// ZID: Z2004989, Z1986104
-//
-//********************************************************************
-
 // Input & Output Operations
 // *************************
 #define READ 11
