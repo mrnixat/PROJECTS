@@ -1,16 +1,6 @@
 #ifndef SIMPLESIM_H
 #define SIMPLESIM_H
 
-//********************************************************************
-//
-// simplesim.h
-// CSCI 241 Assignment 8
-//
-// Created by Yousuf Khan, Niko Tsakiridis
-// ZID: Z2004989, Z1986104
-//
-//********************************************************************
-
 class simplesim
 {
     // Simplesim memory.
